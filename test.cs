@@ -3,8 +3,8 @@ using System.Collections.Generic;
 
 namespace test{
     class Test{
-        void Main(){
-            
+        void Main(string[] args){
+            Console.WriteLine("hello world");
         }
     }
 }
